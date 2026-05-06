@@ -9,7 +9,7 @@
 
 **Система управления дисконтными программами**
 
-[🌐 Демо](https://odinockiy-frontdevelopier.github.io/dicountpro1/) |
+[🌐 Демо](https://discounprorealease.onrender.com/) |
 [📧 Контакты](mailto:karintsev.roma545@gmail.com)
 
 </div>
