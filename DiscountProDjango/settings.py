@@ -15,7 +15,10 @@ YANDEX_GPT_API_KEY = os.getenv('YANDEX_GPT_API_KEY', '')
 
 DEBUG = True  # Временно True для разработки
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+ALLOWED_HOSTS = [    'discounprorealease.onrender.com',
+    'localhost',
+    '127.0.0.1',
+]
 
 INSTALLED_APPS = [
     'django.contrib.admin',
